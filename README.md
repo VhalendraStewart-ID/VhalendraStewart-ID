@@ -2,6 +2,8 @@
 
 ![VhalendraID](https://imgtr.ee/images/2024/07/22/7fc070b3df2793e78ff3c903246c5e35.png)
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vhalendrastewart-id&label=Profile%20views&color=0e75b6&style=flat" alt="vhalendrastewart-id" /> </p>
+
 <div align="center">
   <p>
     <a href="https://www.facebook.com/4L3X4.XD"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
@@ -23,9 +25,9 @@
 ___
 
 ###  📊 Github Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vhalendrastewart&show_icons=true&locale=en" alt="vhalendrastewart" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vhalendrastewart-id&show_icons=true&locale=en" alt="vhalendrastewart-id" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vhalendrastewart&" alt="vhalendrastewart" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vhalendrastewart-id&" alt="vhalendrastewart-id" /></p>
 
 ___
 
