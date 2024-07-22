@@ -1,6 +1,6 @@
 ### 👋 Hey There! I'm [VhalendraStewart.ID](https://wa.me/+601139219251) 👋
 
-![VhalendraID](https://github.com/VhalendraStewart/VhalendraStewart/blob/main/image/20240721_184604.png)
+![VhalendraID](https://imgtr.ee/images/2024/07/22/7fc070b3df2793e78ff3c903246c5e35.png)
 
 <div align="center">
   <p>
